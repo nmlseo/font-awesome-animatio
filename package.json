@@ -4,7 +4,7 @@
     "dependencies": {},
     "author": "l-lin",
     "devDependencies": {
-        "express": "~4.16.2",
+        "express": "~4.17.3",
         "grunt": "~1.0.1",
         "grunt-contrib-clean": "~1.1.0",
         "grunt-contrib-concat": "~1.0.1",
